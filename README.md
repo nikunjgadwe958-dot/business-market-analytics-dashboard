@@ -171,6 +171,9 @@ Business-Market-Analytics/
 - KPI Development
 - Business Analysis
 - Power BI Reporting
+
+## Author
+
 **Nikunj Gadwe**
 
 Aspiring Data Analyst | SQL | Power BI | Python | Excel
